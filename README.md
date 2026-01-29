@@ -12,4 +12,3 @@ Os scripts disponíveis abordam, entre outros, os seguintes cenários:
 - Auditoria e permissões (Send As, Full Access, etc.)
 - Monitoramento e diagnóstico
 - Automação de tarefas administrativas
-- Exchange Online Protection (EOP)
